@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 0) ;
+    font-family: 'Lato', sans-serif;
+}
+
+.abc{
+    padding-top: 20px;   
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    height: 300px;
+    margin: auto;
+    width:730px;
+    padding:100px;
+    
+}
+
+    
+.box{
+    border: solid 1px gray;
+    width:190px;
+    padding: 20px;
+}
+
